@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solafides&label=Profile%20views&color=0e75b6&style=flat" alt="solafides" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solafides" alt="solafides" /></a> </p>
-
 - 🔭 I’m currently working on **UN-HU-BLOG**
 
 - 🌱 I’m currently learning **Python and Machine learning**
 
-- 👯 I’m looking to collaborate on **AI**
+- 👯 I’m looking to collaborate on **AI AND MACHINE LEARNIG**
 
-- 💬 Ask me about **node.js, React,and express**
+- 💬 Ask me about **node.js,React,and express**
 
 - 📫 How to reach me **withsolomon78@gmail.com**
 
